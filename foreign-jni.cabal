@@ -21,7 +21,7 @@ author: C. J. van den Berg
 maintainer: cj@vdbonline.com
 copyright: 2013 C. J. van den Berg
 category: Foreign
-build-type: Configure
+build-type: Simple
 cabal-version: >=1.8
 
 source-repository head
